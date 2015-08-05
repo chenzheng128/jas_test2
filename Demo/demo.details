@@ -1,0 +1,18 @@
+Everything before the line containing only '---' will not be parsed
+
+---
+ name: The Name of the Demo
+ description: Some description, please keep it in one line
+ authors:
+   - Jamsin (reviesed by Chen)
+ resources:
+   - /js/demo.js
+   - /demo.css
+   - /img/changfu2_fense.jpg
+ normalize_css: no
+ ...
+
+Everything after the line containing only '...' will not be parsed
+
+参考这个文档(http://doc.jsfiddle.net/use/github.html) 命名 文件名, 增加demo.details  
+可以把github内容在fiddle中快速显示与浏览
