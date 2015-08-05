@@ -1,7 +1,11 @@
 body{
-	background-color: azure;
+	/*background-color: azure; */
+	background-color: #FEF2F2;
 	text-align: center;
 	font-family: courier;
+}
+h1 {
+	background-color: #FEF2F2;
 }
 h6{
 	font-family: arial;
@@ -10,9 +14,12 @@ span{
 	font-family: "imprint mt shadow";
 	color: darkgray;
 }
+
 a{
 	font-size: larger;
-	font-family: "arial black";
+	/* font-family: "arial black"; */
+	font-family: "courier";
+    color: #D5BEAE;
 }
 a:hover{
 	color:crimson;
